@@ -7,7 +7,7 @@ Add your answers to the questions below.
 3. What is the runtime complexity of your ring buffer's `get` method?
     O(n)
 4. What is the space complexity of your ring buffer's `get` method?
-    O(1)
+    O(n)
 
 5. What is the runtime complexity of the provided code in `names.py`?
     O(n^2)
